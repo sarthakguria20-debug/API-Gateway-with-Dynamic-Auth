@@ -1,0 +1,6 @@
+{
+  "name": "API Gateway with Dynamic Auth",
+  "description": "An API Gateway that checks JWTs and applies dynamic rate-limits based on user tier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
